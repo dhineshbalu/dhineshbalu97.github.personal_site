@@ -1,0 +1,61 @@
+.about1
+{
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.about2
+{
+    text-align: center;
+    letter-spacing: 4px;
+    word-spacing: 5px;
+    color:#64d6ca;
+}
+.section
+{
+    height: 500px;
+   
+}
+.section1
+{
+    width:650px;
+    height:500px;
+    background-color: black;
+    display: inline-block;
+    margin-left: 20px;
+    background-image: url("images/3.jpg");
+    position: relative;
+    bottom: 250px;
+  
+}
+.section2
+{
+    width:650px;
+    height:500px;
+    
+    display: inline-block;
+}
+img
+{
+    width:250px;
+    height:250px;
+}
+.title
+{
+    font-size: 22px;
+    padding-left: 20px;
+    color:black;
+    letter-spacing: 3px;
+    
+}
+.value
+{
+    padding-left: 20px;
+    color:lightgray;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+hr
+{
+    border: 1px dashed #1aceb6;
+}
